@@ -77,3 +77,12 @@ https://nbviewer.jupyter.org/github/rjtavares/football-crunching/blob/master/not
 It's also more useful the ipython (shell) for certain kinds of interactive/explorative programming(usually involving data manipulation). 
 
 I've found it incredibly helpful when trying to understand an undocumented loosely structured noqsl database I inherited ownership off.
+
+
+
+# Running these workbooks
+
+You can run these workbooks by installing ipython notebook and downloadin them or running it online in binder
+
+https://mybinder.org/v2/gh/rtaycher/python_intro_notes/master
+
